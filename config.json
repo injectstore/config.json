@@ -1,7 +1,8 @@
 {
   "loader_online": true,
-  "status_mensagem": "O Loader está em manutenção para atualização do bypass. Voltamos em breve!",
+  "status_mensagem": "O Loader está em manutenção para atualização do bypass.",
   "versao_obrigatoria": "1.0",
-  "url_download": "https://seu-site-ou-discord.com/download",
-  "aviso_ban": "ATENÇÃO: Use com moderação. O jogo atualizou recentemente e o risco de detecção é médio."
+  "url_download": "https://seu-site.com/download",
+  "aviso_ban": "Use com moderação: Risco de detecção médio.",
+  "ultima_atualizacao": "16/01/2026 às 15:30"
 }

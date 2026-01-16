@@ -1,8 +1,17 @@
 {
   "loader_online": true,
-  "status_mensagem": "O Loader está em manutenção para atualização do bypass.",
+  "status_mensagem": "Sistemas operacionais!",
   "versao_obrigatoria": "1.0",
   "url_download": "https://seu-site.com/download",
-  "aviso_ban": "Use com moderação: Risco de detecção médio.",
-  "ultima_atualizacao": "16/01/2026 às 15:30"
+  "url_discord": "https://discord.gg/afNRuwawmx",
+  "aviso_ban": "Safe em todos os jogos.",
+  "ultima_atualizacao": "16/01/2026 às 04:00",
+  "changelog": "1. Novo bypass para CF\n2. Melhora na estabilidade do FiveM\n3. Interface atualizada",
+  "kill_switch": false,
+  "status_jogos": {
+    "fivem": "online",
+    "crossfire": "online",
+    "valorant": "maintenance",
+    "cs2": "risky"
+  }
 }

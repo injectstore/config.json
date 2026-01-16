@@ -11,8 +11,8 @@
   "news_message": "⚠️ O CHEAT ESTÁ ATUALIZADO E SEGURO! APROVEITE! ⚠️",
   "status_jogos": {
     "fivem": "online",
-    "crossfire": "online",
-    "crossfire2": "online",
+    "crossfire": "BLOQUEADO",
+    "crossfire2": "BLOQUEADO",
     "valorant": "maintenance",
     "cs2": "risk",
   }

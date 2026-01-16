@@ -10,10 +10,10 @@
   
   "status_cheats": {
     "crossfire": {
-      "cfwall": "online",
-      "cfwall_mensagem": "Cheat cfWALL funcionando normalmente.",
-      "cfmenu": "online",
-      "cfmenu_mensagem": "Cheat cfWALL funcionando normalmente."
+      "cfwall": "offline",
+      "cfwall_mensagem": "O cheat cfWALL está temporariamente offline devido a atualizações do jogo. Previsão de retorno: 2 horas.",
+      "cfmenu": "maintenance",
+      "cfmenu_mensagem": "O cheat CFMENU está em manutenção para correção de bugs. Estamos trabalhando para resolver o mais rápido possível."
     }
   },
   

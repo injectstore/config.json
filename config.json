@@ -10,7 +10,7 @@
   
   "status_cheats": {
     "crossfire": {
-      "cfwall": "offline",
+      "cfwall": "online",
       "cfwall_mensagem": "Cheat cfWALL funcionando normalmente.",
       "cfmenu": "maintenance",
       "cfmenu_mensagem": "Cheat CFMENU Em Manuntenção."

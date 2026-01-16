@@ -61,7 +61,7 @@
       "titulo": "Manutenção programada",
       "mensagem": "Manutenção no dia 17/01 das 02:00 às 08:00.",
       "data": "2026-01-16",
-      "destaque": True,
+      "destaque": false
     }
   ],
   

@@ -10,17 +10,60 @@
   
   "status_cheats": {
     "crossfire": {
-      "cfwall": "offline",
-      "cfwall_mensagem": "O cheat cfWALL está temporariamente offline devido a atualizações do jogo. Previsão de retorno: 2 horas.",
-      "cfmenu": "maintenance",
-      "cfmenu_mensagem": "O cheat CFMENU está em manutenção para correção de bugs. Estamos trabalhando para resolver o mais rápido possível."
+      "cfwall": "online",
+      "cfwall_mensagem": "Cheat cfWALL funcionando normalmente. Versão atualizada disponível.",
+      "cfmenu": "online",
+      "cfmenu_mensagem": "Cheat CFMENU funcionando normalmente. Novas features adicionadas."
     }
   },
   
   "status_jogos": {
     "valorant": "online",
-    "crossfire": "online"
+    "crossfire": "online",
+    "cs2": "online",
+    "fivem": "online"
   },
+  
+  "checksums": {
+    "cfWALL.exe": "a1b2c3d4e5f6789012345678901234ab",
+    "CFMENUV2SECRE.exe": "b2c3d4e5f6789012345678901234abc",
+    "xhubtools.exe": "c3d4e5f6789012345678901234abcde"
+  },
+  
+  "configuracoes_avancadas": {
+    "verificar_processo_jogo": true,
+    "verificar_integridade_arquivo": true,
+    "timeout_download_segundos": 300,
+    "tentativas_download": 3,
+    "cache_habilitado": true,
+    "log_detalhado": true
+  },
+  
+  "estatisticas": {
+    "total_downloads": 15420,
+    "usuarios_ativos": 892,
+    "taxa_sucesso": 98.5,
+    "ultima_manutencao": "2024-01-10 10:00:00"
+  },
+  
+  "notificacoes": [
+    {
+      "id": 1,
+      "tipo": "info",
+      "titulo": "Nova atualização disponível",
+      "mensagem": "Versão 1.1 do loader disponível com melhorias de performance.",
+      "data": "2024-01-15",
+      "destaque": true
+    },
+    {
+      "id": 2,
+      "tipo": "warning",
+      "titulo": "Manutenção programada",
+      "mensagem": "Manutenção no dia 20/01 das 02:00 às 04:00.",
+      "data": "2024-01-14",
+      "destaque": false
+    }
+  ],
   
   "changelog": [
     {
@@ -29,8 +72,44 @@
       "itens": [
         "Sistema de verificação de status dos cheats CrossFire",
         "Melhorias no sistema de changelogs",
-        "Correções de bugs gerais"
+        "Verificação de integridade de arquivos (MD5)",
+        "Verificação de processos do jogo antes de injetar",
+        "Sistema de logs detalhado",
+        "Progresso de download em tempo real",
+        "Correções de bugs gerais",
+        "Melhorias de performance"
+      ]
+    },
+    {
+      "versao": "0.9",
+      "data": "2024-01-10",
+      "itens": [
+        "Primeira versão do loader",
+        "Suporte para múltiplos cheats",
+        "Sistema de autenticação KeyAuth"
       ]
     }
-  ]
+  ],
+  
+  "servidores_alternativos": [
+    {
+      "nome": "Servidor Principal",
+      "url": "https://raw.githubusercontent.com/injectstore/config.json/refs/heads/main/config.json",
+      "ativo": true,
+      "prioridade": 1
+    },
+    {
+      "nome": "Servidor Backup",
+      "url": "https://raw.githubusercontent.com/injectstore/config-backup/refs/heads/main/config.json",
+      "ativo": true,
+      "prioridade": 2
+    }
+  ],
+  
+  "recursos_experimentais": {
+    "modo_escuro": true,
+    "auto_update": false,
+    "telemetria": true,
+    "anti_debug": true
+  }
 }

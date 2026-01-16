@@ -1,17 +1,36 @@
 {
+  "kill_switch": false,
+  "loader_online": true,
+  "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
+  "url_discord": "https://discord.gg/afNRuwawmx",
+  "ultima_atualizacao": "2024-01-15 14:30:00",
+  "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
+  "versao_obrigatoria": "1.0",
+  "url_download": "https://exemplo.com/download/loader.exe",
+  
   "status_cheats": {
     "crossfire": {
-      "cfwall": "online",  // ou "offline" ou "maintenance"
-      "cfwall_mensagem": "Mensagem personalizada",
-      "cfmenu": "online",  // ou "offline" ou "maintenance"
-      "cfmenu_mensagem": "Mensagem personalizada"
+      "cfwall": "online",
+      "cfwall_mensagem": "Cheat cfWALL funcionando normalmente.",
+      "cfmenu": "online",
+      "cfmenu_mensagem": "Cheat CFMENU funcionando normalmente."
     }
   },
+  
+  "status_jogos": {
+    "valorant": "online",
+    "crossfire": "online"
+  },
+  
   "changelog": [
     {
       "versao": "1.0",
       "data": "2024-01-15",
-      "itens": ["Item 1", "Item 2"]
+      "itens": [
+        "Sistema de verificação de status dos cheats CrossFire",
+        "Melhorias no sistema de changelogs",
+        "Correções de bugs gerais"
+      ]
     }
   ]
 }

@@ -12,14 +12,14 @@
     "crossfire": {
       "cfwall": "online",
       "cfwall_mensagem": "Cheat cfWALL funcionando normalmente. Versão atualizada disponível.",
-      "cfmenu": "offline",
-      "cfmenu_mensagem": "Cheat CFMENU esta atualizando. Novas features sera adicionadas."
+      "cfmenu": "online",
+      "cfmenu_mensagem": "Cheat CFMENU funcionando normalmente. Novas features adicionadas."
     }
   },
   
   "status_jogos": {
     "valorant": "online",
-    "crossfire": "offline",
+    "crossfire": "online",
     "cs2": "online",
     "fivem": "online"
   },
@@ -111,5 +111,96 @@
     "auto_update": false,
     "telemetria": true,
     "anti_debug": true
+  },
+  
+  "promocoes": [
+    {
+      "texto": "🔥 PROMOÇÃO ESPECIAL: 50% OFF em todos os cheats CrossFire! Use o código: CF50",
+      "destaque": true,
+      "validade": "2024-12-31"
+    },
+    {
+      "texto": "⭐ NOVO CHEAT DISPONÍVEL: Valorant Premium - Teste grátis por 7 dias!",
+      "destaque": true,
+      "validade": "2024-12-31"
+    },
+    {
+      "texto": "🎁 BLACK FRIDAY: Compre 2 cheats e ganhe 1 grátis! Válido até 30/11",
+      "destaque": true,
+      "validade": "2024-11-30"
+    },
+    {
+      "texto": "💎 VIP MEMBERSHIP: Acesso a todos os cheats por apenas R$ 99,90/mês",
+      "destaque": false,
+      "validade": "2024-12-31"
+    },
+    {
+      "texto": "🚀 ATUALIZAÇÃO: CS2 Internal agora com Anti-Ban melhorado!",
+      "destaque": false,
+      "validade": "2024-12-31"
+    },
+    {
+      "texto": "📢 SUPORTE 24/7 disponível no Discord! Entre agora e ganhe 10% OFF",
+      "destaque": false,
+      "validade": "2024-12-31"
+    }
+  ],
+  
+  "loja": {
+    "produtos": [
+      {
+        "nome": "CrossFire - cfWALL",
+        "preco": 49.90,
+        "moeda": "BRL",
+        "status": "online",
+        "descricao": "Cheat completo para CrossFire com múltiplas features"
+      },
+      {
+        "nome": "CrossFire - CFMENU",
+        "preco": 59.90,
+        "moeda": "BRL",
+        "status": "online",
+        "descricao": "Menu avançado para CrossFire com interface moderna"
+      },
+      {
+        "nome": "Valorant Premium",
+        "preco": 79.90,
+        "moeda": "BRL",
+        "status": "online",
+        "descricao": "Cheat premium para Valorant com anti-ban avançado"
+      },
+      {
+        "nome": "CS2 Internal",
+        "preco": 69.90,
+        "moeda": "BRL",
+        "status": "online",
+        "descricao": "Cheat interno para CS2 com detecção zero"
+      },
+      {
+        "nome": "FiveM External",
+        "preco": 89.90,
+        "moeda": "BRL",
+        "status": "online",
+        "descricao": "Cheat externo para FiveM com múltiplos recursos"
+      },
+      {
+        "nome": "VIP Membership",
+        "preco": 99.90,
+        "moeda": "BRL",
+        "status": "online",
+        "descricao": "Acesso completo a todos os cheats disponíveis"
+      }
+    ],
+    "formas_pagamento": [
+      "PIX (5% OFF)",
+      "Cartão de Crédito",
+      "PayPal",
+      "Criptomoedas"
+    ],
+    "promocoes_ativas": [
+      "50% OFF em CrossFire (código: CF50)",
+      "Compre 2, ganhe 1 grátis",
+      "Primeira compra: 20% OFF"
+    ]
   }
 }

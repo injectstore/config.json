@@ -10,16 +10,16 @@
   
   "status_cheats": {
     "crossfire": {
-      "cfwall": "online",
+      "cfwall": "offline",
       "cfwall_mensagem": "Cheat cfWALL funcionando normalmente.",
-      "cfmenu": "online",
-      "cfmenu_mensagem": "Cheat CFMENU funcionando normalmente."
+      "cfmenu": "offline",
+      "cfmenu_mensagem": "Cheat CFMENU Em Manuntenção."
     }
   },
   
   "status_jogos": {
     "valorant": "online",
-    "crossfire": "online"
+    "crossfire": "offline"
   },
   
   "changelog": [

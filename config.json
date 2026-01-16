@@ -1,19 +1,17 @@
 {
-  "loader_online": true,
-  "status_mensagem": "Sistemas operacionais!",
-  "versao_obrigatoria": "1.0",
-  "url_download": "https://seu-site.com/download",
-  "url_discord": "https://discord.gg/afNRuwawmx",
-  "aviso_ban": "Safe em alguns jogos.",
-  "ultima_atualizacao": "16/01/2026 às 04:00",
-  "changelog": "1. Novo bypass para CF\n2. Melhora na estabilidade do FiveM\n3. Interface atualizada",
-  "kill_switch": false,
-  "news_message": "⚠️ O CHEAT ESTÁ ATUALIZADO E SEGURO! APROVEITE! ⚠️",
-  "status_jogos": {
-    "fivem": "online",
-    "crossfire": "maintenance",
-    "crossfire2": "maintenance",
-    "valorant": "maintenance",
-    "cs2": "risk"
-  }
+  "status_cheats": {
+    "crossfire": {
+      "cfwall": "online",  // ou "offline" ou "maintenance"
+      "cfwall_mensagem": "Mensagem personalizada",
+      "cfmenu": "online",  // ou "offline" ou "maintenance"
+      "cfmenu_mensagem": "Mensagem personalizada"
+    }
+  },
+  "changelog": [
+    {
+      "versao": "1.0",
+      "data": "2024-01-15",
+      "itens": ["Item 1", "Item 2"]
+    }
+  ]
 }

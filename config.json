@@ -1,4 +1,7 @@
 {
-  "aviso_mensagem": "Bem-vindo ao Loader! Sistema Online.",
-  "versao_obrigatoria": "2.0"
+  "loader_online": true,
+  "status_mensagem": "O Loader está em manutenção para atualização do bypass. Voltamos em breve!",
+  "versao_obrigatoria": "1.0",
+  "url_download": "https://seu-site-ou-discord.com/download",
+  "aviso_ban": "ATENÇÃO: Use com moderação. O jogo atualizou recentemente e o risco de detecção é médio."
 }

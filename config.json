@@ -12,14 +12,14 @@
     "crossfire": {
       "cfwall": "offline",
       "cfwall_mensagem": "Cheat cfWALL funcionando normalmente.",
-      "cfmenu": "offline",
+      "cfmenu": "maintenance",
       "cfmenu_mensagem": "Cheat CFMENU Em Manuntenção."
     }
   },
   
   "status_jogos": {
     "valorant": "online",
-    "crossfire": "offline"
+    "crossfire": "online"
   },
   
   "changelog": [

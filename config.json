@@ -43,24 +43,24 @@
     "total_downloads": 15420,
     "usuarios_ativos": 892,
     "taxa_sucesso": 98.5,
-    "ultima_manutencao": "2024-01-10 10:00:00"
+    "ultima_manutencao": "2026-01-10 10:00:00"
   },
   
   "notificacoes": [
     {
       "id": 1,
       "tipo": "info",
-      "titulo": "Nova atualização",
-      "mensagem": "Versão 1.0 do loader disponível com melhorias de performance.",
-      "data": "2026-01-16",
+      "titulo": "Nova atualização disponível",
+      "mensagem": "Versão 1.1 do loader disponível com melhorias de performance.",
+      "data": "2026-01-15",
       "destaque": true
     },
     {
       "id": 2,
       "tipo": "warning",
       "titulo": "Manutenção programada",
-      "mensagem": "Manutenção no dia 17/01 das 02:00 às 08:00.",
-      "data": "2026-01-16",
+      "mensagem": "Manutenção no dia 20/01 das 02:00 às 04:00.",
+      "data": "2026-01-14",
       "destaque": false
     }
   ],
@@ -68,7 +68,7 @@
   "changelog": [
     {
       "versao": "1.0",
-      "data": "2026-01-16",
+      "data": "2026-01-15",
       "itens": [
         "Sistema de verificação de status dos cheats CrossFire",
         "Melhorias no sistema de changelogs",
@@ -82,7 +82,7 @@
     },
     {
       "versao": "0.9",
-      "data": "2026-01-15",
+      "data": "2026-01-10",
       "itens": [
         "Primeira versão do loader",
         "Suporte para múltiplos cheats",
@@ -117,27 +117,27 @@
     {
       "texto": "🔥 PROMOÇÃO ESPECIAL: 10% OFF em todos os cheats CrossFire! Use o código: CF10",
       "destaque": true,
-      "validade": "2026-01-18"
+      "validade": "2026-01-20"
     },
     {
       "texto": "⭐ NOVO CHEAT DISPONÍVEL: Valorant Premium - Teste grátis por 7 dias!",
-      "destaque": false,
-      "validade": "2026-01-31"
+      "destaque": true,
+      "validade": "2026-01-17"
     },
     {
-      "texto": "🎁 BLACK FRIDAY: Compre 2 cheats e ganhe 1 grátis! Válido até 30/01",
+      "texto": "🎁 BLACK FRIDAY: Compre 2 cheats e ganhe 1 grátis! Válido até 30/11",
       "destaque": true,
       "validade": "2026-01-30"
     },
     {
       "texto": "💎 VIP MEMBERSHIP: Acesso a todos os cheats por apenas R$ 99,90/mês",
       "destaque": false,
-      "validade": "2026-01-31"
+      "validade": "2026-01-17"
     },
     {
       "texto": "🚀 ATUALIZAÇÃO: CS2 Internal agora com Anti-Ban melhorado!",
       "destaque": false,
-      "validade": "2024-12-31"
+      "validade": "2026-01-17"
     },
     {
       "texto": "📢 SUPORTE 24/7 disponível no Discord! Entre agora e ganhe 10% OFF",
@@ -187,12 +187,12 @@
         "nome": "VIP Membership",
         "preco": 99.90,
         "moeda": "BRL",
-        "status": "offline",
+        "status": "online",
         "descricao": "Acesso completo a todos os cheats disponíveis"
       }
     ],
     "formas_pagamento": [
-      "PIX (5% OFF)",
+      "PIX",
       "Cartão de Crédito",
       "PayPal",
       "Criptomoedas"
@@ -200,7 +200,7 @@
     "promocoes_ativas": [
       "10% OFF em CrossFire (código: CF10)",
       "Compre 2, ganhe 1 grátis",
-      "Primeira compra: 15% OFF"
+      "Primeira compra: 10% OFF"
     ]
   }
 }

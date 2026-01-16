@@ -10,10 +10,10 @@
   "kill_switch": false,
   "status_jogos": {
     "fivem": "online",
-    "crossfire": "maintenance",
-    "crossfire2": "maintenance",
+    "crossfire": "online",
+    "crossfire2": "online",
     "valorant": "maintenance",
-    "cs2": "Risco"
+    "cs2": "risk"
     "news_message": "⚠️ O CHEAT ESTÁ ATUALIZADO E SEGURO! APROVEITE! ⚠️",
 
   }

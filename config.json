@@ -3,7 +3,7 @@
   "loader_online": true,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
-  "ultima_atualizacao": "2024-01-15 14:30:00",
+  "ultima_atualizacao": "2026-01-15 14:30:00",
   "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
   "versao_obrigatoria": "1.0",
   "url_download": "https://exemplo.com/download/loader.exe",
@@ -50,25 +50,25 @@
     {
       "id": 1,
       "tipo": "info",
-      "titulo": "Nova atualização disponível",
-      "mensagem": "Versão 1.1 do loader disponível com melhorias de performance.",
-      "data": "2024-01-15",
+      "titulo": "Nova atualização",
+      "mensagem": "Versão 1.0 do loader disponível com melhorias de performance.",
+      "data": "2026-01-16",
       "destaque": true
     },
     {
       "id": 2,
       "tipo": "warning",
       "titulo": "Manutenção programada",
-      "mensagem": "Manutenção no dia 20/01 das 02:00 às 04:00.",
-      "data": "2024-01-14",
-      "destaque": false
+      "mensagem": "Manutenção no dia 17/01 das 02:00 às 08:00.",
+      "data": "2026-01-16",
+      "destaque": True
     }
   ],
   
   "changelog": [
     {
       "versao": "1.0",
-      "data": "2024-01-15",
+      "data": "2026-01-16",
       "itens": [
         "Sistema de verificação de status dos cheats CrossFire",
         "Melhorias no sistema de changelogs",
@@ -82,7 +82,7 @@
     },
     {
       "versao": "0.9",
-      "data": "2024-01-10",
+      "data": "2026-01-15",
       "itens": [
         "Primeira versão do loader",
         "Suporte para múltiplos cheats",
@@ -115,24 +115,24 @@
   
   "promocoes": [
     {
-      "texto": "🔥 PROMOÇÃO ESPECIAL: 50% OFF em todos os cheats CrossFire! Use o código: CF50",
+      "texto": "🔥 PROMOÇÃO ESPECIAL: 10% OFF em todos os cheats CrossFire! Use o código: CF10",
       "destaque": true,
-      "validade": "2024-12-31"
+      "validade": "2026-01-18"
     },
     {
       "texto": "⭐ NOVO CHEAT DISPONÍVEL: Valorant Premium - Teste grátis por 7 dias!",
-      "destaque": true,
-      "validade": "2024-12-31"
+      "destaque": false,
+      "validade": "2026-01-31"
     },
     {
-      "texto": "🎁 BLACK FRIDAY: Compre 2 cheats e ganhe 1 grátis! Válido até 30/11",
+      "texto": "🎁 BLACK FRIDAY: Compre 2 cheats e ganhe 1 grátis! Válido até 30/01",
       "destaque": true,
-      "validade": "2024-11-30"
+      "validade": "2026-01-30"
     },
     {
       "texto": "💎 VIP MEMBERSHIP: Acesso a todos os cheats por apenas R$ 99,90/mês",
       "destaque": false,
-      "validade": "2024-12-31"
+      "validade": "2026-01-31"
     },
     {
       "texto": "🚀 ATUALIZAÇÃO: CS2 Internal agora com Anti-Ban melhorado!",
@@ -142,7 +142,7 @@
     {
       "texto": "📢 SUPORTE 24/7 disponível no Discord! Entre agora e ganhe 10% OFF",
       "destaque": false,
-      "validade": "2024-12-31"
+      "validade": "2026-01-17"
     }
   ],
   
@@ -166,7 +166,7 @@
         "nome": "Valorant Premium",
         "preco": 79.90,
         "moeda": "BRL",
-        "status": "online",
+        "status": "offline",
         "descricao": "Cheat premium para Valorant com anti-ban avançado"
       },
       {
@@ -180,14 +180,14 @@
         "nome": "FiveM External",
         "preco": 89.90,
         "moeda": "BRL",
-        "status": "online",
+        "status": "offline",
         "descricao": "Cheat externo para FiveM com múltiplos recursos"
       },
       {
         "nome": "VIP Membership",
         "preco": 99.90,
         "moeda": "BRL",
-        "status": "online",
+        "status": "offline",
         "descricao": "Acesso completo a todos os cheats disponíveis"
       }
     ],
@@ -198,9 +198,9 @@
       "Criptomoedas"
     ],
     "promocoes_ativas": [
-      "50% OFF em CrossFire (código: CF50)",
+      "10% OFF em CrossFire (código: CF10)",
       "Compre 2, ganhe 1 grátis",
-      "Primeira compra: 20% OFF"
+      "Primeira compra: 15% OFF"
     ]
   }
 }

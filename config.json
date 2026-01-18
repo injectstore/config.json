@@ -1,12 +1,12 @@
 {
   "kill_switch": false,
-  "loader_online": false,
+  "loader_online": true,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
   "ultima_atualizacao": "2026-01-16 14:30:00",
   "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
-  "versao_obrigatoria": "1.0",
-  "url_download": "https://exemplo.com/download/loader.exe",
+  "versao_obrigatoria": "1.1",
+  "url_download": "https://jottacloud.com/s/445edff6fad9f76463cb70d703cf261adc9/thumbs",
   
   "status_cheats": {
     "crossfire": {
@@ -43,7 +43,7 @@
     "total_downloads": 15420,
     "usuarios_ativos": 892,
     "taxa_sucesso": 98.5,
-    "ultima_manutencao": "2026-01-10 10:00:00"
+    "ultima_manutencao": "2026-01-17 00:00:15"
   },
   
   "notificacoes": [
@@ -52,14 +52,14 @@
       "tipo": "info",
       "titulo": "Nova atualização disponível",
       "mensagem": "Versão 1.1 do loader disponível com melhorias de performance.",
-      "data": "2026-01-15",
+      "data": "2026-01-18",
       "destaque": false
     },
     {
       "id": 2,
       "tipo": "warning",
       "titulo": "Manutenção programada",
-      "mensagem": "Manutenção no dia 17/01 das 02:00 às 08:00.",
+      "mensagem": "Manutenção no dia 19/01 das 02:00 às 08:00.",
       "data": "2026-01-14",
       "destaque": false
     }
@@ -67,8 +67,8 @@
   
   "changelog": [
     {
-      "versao": "1.0",
-      "data": "2026-01-15",
+      "versao": "1.1",
+      "data": "2026-01-18",
       "itens": [
         "Sistema de verificação de status dos cheats CrossFire",
         "Melhorias no sistema de changelogs",

@@ -13,13 +13,13 @@
       "cfwall": "online",
       "cfwall_mensagem": "Cheat cfWALL funcionando normalmente. Versão atualizada disponível.",
       "cfmenu": "offline",
-      "cfmenu_mensagem": "Cheat CFMENU em atualização."
+      "cfmenu_mensagem": "Cheat CrossFire MENUV2 funcionando normalmente. Versão atualizada disponível."
     }
   },
   
   "status_jogos": {
     "valorant": "online",
-    "crossfire": "offline",
+    "crossfire": "online",
     "cs2": "online",
     "fivem": "online"
   },

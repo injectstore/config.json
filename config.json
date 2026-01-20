@@ -3,17 +3,17 @@
   "loader_online": true,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
-  "ultima_atualizacao": "2026-01-16 14:30:00",
+  "ultima_atualizacao": "2026-01-20 14:30:00",
   "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
-  "versao_obrigatoria": "1.0",
-  "url_download": "https://jottacloud.com/s/445edff6fad9f76463cb70d703cf261adc9",
+  "versao_obrigatoria": "1.1",
+  "url_download": "https://tinyurl.com/6dvxd8sh",
   
   "status_cheats": {
     "crossfire": {
       "cfwall": "online",
       "cfwall_mensagem": "Cheat cfWALL funcionando normalmente. Versão atualizada disponível.",
       "cfmenu": "offline",
-      "cfmenu_mensagem": "Cheat CrossFire MENUV2 em manutenção. o CrossFire BR atualizou hoje 19/01 as 12:00 por isso ta tendo essa manutenção urgente."
+      "cfmenu_mensagem": "Cheat CrossFire MENUV2 em manutenção. o CrossFire BR atualizou hoje 20/01 as 12:00 por isso ta tendo essa manutenção urgente."
     }
   },
   

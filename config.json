@@ -3,7 +3,7 @@
   "loader_online": false,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
-  "ultima_atualizacao": "2026-01-21 20:30:00",
+  "ultima_atualizacao": "2026-01-24 01:10:00",
   "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
   "versao_obrigatoria": "1.2",
   "url_download": "https://jottacloud.com/s/445b4239d206cbc42b4be36ca6f06e24b91",
@@ -12,7 +12,7 @@
     "crossfire": {
       "cfwall": "online",
       "cfwall_mensagem": "Cheat cfWALL funcionando normalmente. Versão atualizada disponível.",
-      "cfmenu": "online",
+      "cfmenu": "offline",
       "cfmenu_mensagem": "Cheat CrossFire MENUV2 funcionando normalmente. Versão atualizada disponível."
     }
   },
@@ -52,22 +52,22 @@
       "tipo": "info",
       "titulo": "Nova atualização disponível",
       "mensagem": "Versão 1.2 do loader disponível com melhorias de performance.",
-      "data": "2026-01-18",
+      "data": "2026-01-24",
       "destaque": false
     },
     {
       "id": 2,
       "tipo": "warning",
       "titulo": "Manutenção programada",
-      "mensagem": "Manutenção no dia 21/01 das 23:00 às 08:00.",
-      "data": "2026-01-14",
+      "mensagem": "Manutenção no dia 25/01 das 23:00 às 08:00.",
+      "data": "2026-01-24",
       "destaque": false
     }
   ],
   
   "changelog": [
     {
-      "versao": "1.1",
+      "versao": "1.2",
       "data": "2026-01-18",
       "itens": [
         "Sistema de verificação de status dos cheats CrossFire",
@@ -77,7 +77,7 @@
         "Sistema de logs detalhado",
         "Progresso de download em tempo real",
         "Correções de bugs gerais",
-        "Melhorias de performance"
+        "Remoçao de Virus RootKit"
       ]
     },
     {

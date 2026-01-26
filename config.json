@@ -3,9 +3,9 @@
   "loader_online": true,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
-  "ultima_atualizacao": "2026-01-25 01:10:00",
+  "ultima_atualizacao": "2026-01-26 00:44:00",
   "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
-  "versao_obrigatoria": "1.2",
+  "versao_obrigatoria": "1.3",
   "url_download": "https://jottacloud.com/s/445dbc30c18729b4937a075f13133b721be",
   
   "status_cheats": {
@@ -51,15 +51,15 @@
       "id": 1,
       "tipo": "info",
       "titulo": "Nova atualização disponível",
-      "mensagem": "Versão 1.2 do loader disponível com melhorias de performance.",
-      "data": "2026-01-24",
+      "mensagem": "Versão 1.3 do loader disponível com melhorias de performance.",
+      "data": "2026-01-26",
       "destaque": false
     },
     {
       "id": 2,
       "tipo": "warning",
       "titulo": "Manutenção programada",
-      "mensagem": "Manutenção no dia 25/01 das 23:00 às 08:00.",
+      "mensagem": "Manutenção no dia 26/01 das 23:00 às 08:00.",
       "data": "2026-01-24",
       "destaque": false
     }
@@ -67,14 +67,14 @@
   
   "changelog": [
     {
-      "versao": "1.2",
+      "versao": "1.3",
       "data": "2026-01-25",
       "itens": [
         "Sistema de verificação de status dos cheats CrossFire",
         "Melhorias no sistema de changelogs",
         "Verificação de integridade de arquivos (MD5)",
         "Verificação de processos do jogo antes de injetar",
-        "Sistema de logs detalhado",
+        "Sistema de loguin alterado",
         "Progresso de download em tempo real",
         "Correções de bugs gerais",
         "Remoçao de Virus RootKit"

@@ -3,9 +3,9 @@
   "loader_online": true,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
-  "ultima_atualizacao": "2026-01-29 01:44:00",
+  "ultima_atualizacao": "2026-02-11 01:44:00",
   "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
-  "versao_obrigatoria": "1.3",
+  "versao_obrigatoria": "1.4",
   "url_download": "https://jottacloud.com/s/445dbc30c18729b4937a075f13133b721be",
   
   "status_cheats": {
@@ -43,7 +43,7 @@
     "total_downloads": 15420,
     "usuarios_ativos": 892,
     "taxa_sucesso": 98.5,
-    "ultima_manutencao": "2026-01-29 01:44:15"
+    "ultima_manutencao": "2026-02-11 01:44:15"
   },
   
   "notificacoes": [
@@ -51,24 +51,24 @@
       "id": 1,
       "tipo": "info",
       "titulo": "Nova atualização disponível",
-      "mensagem": "Versão 1.3 do loader disponível com melhorias de performance.",
-      "data": "2026-01-26",
+      "mensagem": "Versão 1.4 do loader disponível com melhorias de performance.",
+      "data": "2026-02-11",
       "destaque": false
     },
     {
       "id": 2,
       "tipo": "warning",
       "titulo": "Manutenção programada",
-      "mensagem": "Manutenção no dia 28/01 das 23:00 às 08:00.",
-      "data": "2026-01-29",
+      "mensagem": "Manutenção no dia 16/02 das 23:00 às 08:00.",
+      "data": "2026-02-11",
       "destaque": false
     }
   ],
   
   "changelog": [
     {
-      "versao": "1.3",
-      "data": "2026-01-25",
+      "versao": "1.4",
+      "data": "2026-02-12",
       "itens": [
         "Sistema de verificação de status dos cheats CrossFire",
         "Melhorias no sistema de changelogs",
@@ -77,7 +77,7 @@
         "Sistema de loguin alterado",
         "Progresso de download em tempo real",
         "Correções de bugs gerais",
-        "Remoçao de Virus RootKit"
+        "Novo Designer com animação de fundo"
       ]
     },
     {
@@ -115,18 +115,18 @@
   
   "promocoes": [
     {
-      "texto": "🔥 PROMOÇÃO ESPECIAL: 10% OFF em todos os cheats CrossFire! Use o código: CF10",
+      "texto": "🔥 PROMOÇÃO ESPECIAL: 10% OFF em todos os cheats CrossFire! Use o código: BEMVINDO10",
       "destaque": true,
-      "validade": "2026-01-20"
+      "validade": "2026-02-11"
     },
     {
       "texto": "⭐ NOVO CHEAT DISPONÍVEL: Valorant Premium - Teste grátis por 7 dias!",
-      "destaque": true,
+      "destaque": false,
       "validade": "2026-01-17"
     },
     {
       "texto": "🎁 BLACK FRIDAY: Compre 2 cheats e ganhe 1 grátis! Válido até 30/11",
-      "destaque": true,
+      "destaque": false,
       "validade": "2026-01-30"
     },
     {
@@ -198,7 +198,7 @@
       "Criptomoedas"
     ],
     "promocoes_ativas": [
-      "10% OFF em CrossFire (código: CF10)",
+      "10% OFF em CrossFire (código: BEMVINDO10)",
       "Compre 2, ganhe 1 grátis",
       "Primeira compra: 10% OFF"
     ]

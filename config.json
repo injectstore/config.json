@@ -1,6 +1,6 @@
 {
   "kill_switch": false,
-  "loader_online": true,
+  "loader_online": false,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
   "ultima_atualizacao": "2026-02-1 16:44:00",

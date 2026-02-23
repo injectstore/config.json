@@ -1,9 +1,9 @@
 {
   "kill_switch": false,
-  "loader_online": false,
+  "loader_online": true,
   "status_mensagem": "O loader está em manutenção. Tente novamente mais tarde.",
   "url_discord": "https://discord.gg/afNRuwawmx",
-  "ultima_atualizacao": "2026-02-1 16:44:00",
+  "ultima_atualizacao": "2026-02-23 08:44:00",
   "aviso_ban": "Nenhum ban detectado. Sistema funcionando normalmente.",
   "versao_obrigatoria": "1.4",
   "url_download": "https://jottacloud.com/s/445dbc30c18729b4937a075f13133b721be",
@@ -43,7 +43,7 @@
     "total_downloads": 15420,
     "usuarios_ativos": 892,
     "taxa_sucesso": 98.5,
-    "ultima_manutencao": "2026-02-11 01:44:15"
+    "ultima_manutencao": "2026-02-23 08:44:15"
   },
   
   "notificacoes": [
@@ -59,8 +59,8 @@
       "id": 2,
       "tipo": "warning",
       "titulo": "Manutenção programada",
-      "mensagem": "Manutenção no dia 16/02 das 23:00 às 08:00.",
-      "data": "2026-02-11",
+      "mensagem": "Manutenção no dia 01/03 das 23:00 às 08:00.",
+      "data": "2026-03-01",
       "destaque": false
     }
   ],
